@@ -1,5 +1,5 @@
 # integradorIfsul2018
-CHURRASCO - HAMMER CONSULT
+PROJETO INTEGRADOR
 
 <h1>Projeto Integrador IFSUL 2018</h1>
 <h4>Durante o segundo ano/quarto semestre do curso técnico em informática, foi proposto realizarmos a integração do banco de dados com uma API realizada em Java.</h4>
